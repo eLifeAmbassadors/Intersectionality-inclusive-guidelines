@@ -12,7 +12,7 @@ These guidelines live on our main project page on the OSF: please visit them [he
 
 Please feel free to use, share, and modify these guidelines!
 
-We would like to get feedback on these guidelines to improve our documents. Please help us by taking this short (anonymous) [survey](link). 
+We would like to get feedback on these guidelines to improve our documents. Please help us by taking this short (anonymous) [survey](https://forms.gle/xng5jzZqs3AYNcaw7). 
  
 ## Authors
 
