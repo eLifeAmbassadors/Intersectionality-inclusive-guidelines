@@ -28,5 +28,5 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 ## Acknowledgements
 
-We would like to thank eLife Community staff for their support, and the eLife Community Ambassadors who have translated the guidelines: Yen-Chung Chen and Hung Lo (Chinese), Humberto Debat (Spanish), Melanie Krause (German), and Renuka Kudva (Hindi).
+We would like to thank eLife Community staff for their support, and the eLife Community Ambassadors who have translated the guidelines: Yen-Chung Chen and Hung Lo (Chinese), Humberto Debat (Spanish), Melanie Krause (German), and Renuka Kudva (Hindi). Images (except for Intersectionality logo) created with Biorender.com.
 
