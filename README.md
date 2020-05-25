@@ -1,4 +1,4 @@
-# Guidelines for inclusive practices in academia
+# Guidelines Toward Inclusive Practices in Academics by eLife Community Ambassadors
 
 The academic world has become increasingly diverse over the past few decades. However, many of us have unconscious biases against certain groups of people, and common practices in evaluating merit have flaws that can perpetuate these biases. We, a group of eLife Community Ambassadors within the Intersectionality Initiative (2019-2020), have identified five current practices that are fundamental to academic science that may be hindering inclusivity in science. These practices include hiring, mentoring, writing reference letters, and reviewing grants and manuscripts. To try and level the playing field and increase inclusivity in science, we have compiled a guideline for each of these practices that are intended to help inform scientists, mentors, funders, and journals on ways to mitigate biases. The overall goal of these guidelines is to make science more inclusive and to limit bias in these core features of academic science. 
 
